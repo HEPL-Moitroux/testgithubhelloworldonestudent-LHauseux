@@ -6,7 +6,7 @@ namespace Labo1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Labo 1");
+            Console.WriteLine("Hello Loic !");
         }
     }
 }
